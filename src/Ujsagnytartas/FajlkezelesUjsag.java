@@ -10,6 +10,8 @@ import java.nio.file.Paths;
 
 public class FajlkezelesUjsag {
 	
+	//verziokvetes proba
+	
 	public Ujsag[] probaBeolvasas (String fajlnev, String elvalaszto) throws IOException {
 	
 		Ujsag[] ujsagok = new Ujsag[tombokSorokSzama(fajlnev)];
