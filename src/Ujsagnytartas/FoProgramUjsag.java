@@ -7,8 +7,6 @@ import java.io.IOException;
 public class FoProgramUjsag {
 
 	public static void main(String[] args) throws IOException {
-	
-	//verziokovetes proba
 		
 		FajlkezelesUjsag beolvasasObj = new FajlkezelesUjsag();
 	
